@@ -9,5 +9,10 @@
 <body>
     <h2>Anh luan đẹp trai</h2>
     <h2>Anh luan học giỏi</h2>
+    <ul>
+        <li>hoc gioi</li>
+        <li>dep trai</li>
+        <li>nha giau</li>
+    </ul>
 </body>
 </html>
